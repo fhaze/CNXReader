@@ -1,6 +1,6 @@
 ## CNXReader
 
-Visualizador de arquivo de confêrencia da ANS (CNX). **Versao Atual: 1.2b**
+Visualizador de arquivo de confêrencia da ANS (CNX). **Versao Atual: 1.21b**
 
 Liste, filtre e exporte dados de beneficiários do SIB através do arquivo de conferência da ANS.
 
