@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E7165F4C-B108-4A0B-88BB-C55096525746}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CNXReader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CNXReader\MainWindow.cs">
+    <Files>
+      <File FileName="CNXReader\MainWindow.cs" Line="376" Column="27" />
+      <File FileName="CNXReader\CNXWriter.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
