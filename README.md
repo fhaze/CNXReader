@@ -1,12 +1,14 @@
 ## CNXReader
 
-Visualizador de arquivo de confêrencia da ANS (CNX). Versao Atual: 1.2b
+Visualizador de arquivo de confêrencia da ANS (CNX). **Versao Atual: 1.2b**
+
+Liste, filtre e exporte dados de beneficiários do SIB através do arquivo de conferência da ANS.
 
 ## Recursos
-- Suporta arquivos CNX da versao 1.1
+- Suporte a arquivos CNX da versão 1.1
 - Filtros e ordenação
-- Exporta resultados em CSV
-- Suporta sistemas operacionais Windows, Linux e macOS
+- Exporte resultados no formato CSV
+- Suporte aos sistemas operacionais Windows, Linux e macOS
 
 ## Dependências
 ### Windows
@@ -21,7 +23,12 @@ Visualizador de arquivo de confêrencia da ANS (CNX). Versao Atual: 1.2b
 
 ## Download
 
-Caso queira apenas baixar o programa [Clique aqui](https://shonumi.jp/files/CNXReader.zip)
+Caso não deseje compilar o programa [clique aqui](https://shonumi.jp/files/CNXReader.zip).
+
+## Executando em Linux/macOS
+```
+$ mono CNXReader.exe
+```
 
 ## Licença
 
