@@ -4,7 +4,7 @@ Visualizador de arquivo de confêrencia da ANS (CNX). **Versao Atual: 1.21b**
 
 Liste, filtre e exporte dados de beneficiários do SIB através do arquivo de conferência da ANS.
 
-![alt tag](http://i1088.photobucket.com/albums/i337/www91/print.png)
+![alt tag](http://tinyimg.io/i/qmusALo.PNG)
 
 ## Recursos
 - Suporte a arquivos CNX da versão 1.1
